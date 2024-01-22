@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10%;
+    background-color: darkgreen;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.btn{
+    border-radius: 10px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgreen;
+    height: 40px;
+    margin: 10px;
+    font-size: 17px;
+    font-weight: bold;
+}

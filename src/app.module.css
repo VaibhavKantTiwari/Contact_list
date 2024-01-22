@@ -1,0 +1,15 @@
+.main_box{
+ border-width: 3px;
+ border-radius: 30px;
+ border-color: black;
+ border-style: solid;
+ width: 60vw;
+ height: 570px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
